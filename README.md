@@ -81,7 +81,7 @@
 ---
 **Other projects on:**
 <p align="left">
-<a href="https://www.hackster.io/nedzib" target="blank"><img align="center" src="./icons/socialmedia/hackster.svg" alt="@nedzib" height="30" width="30" /></a>
+<a href="https://www.hackster.io/nedzib" target="blank"><img align="center" src="./icons/socialmedia/hackster.svg" alt="@nedzib" height="40" /></a>
 </p>
 
 ---
