@@ -83,12 +83,11 @@
 <p align="left">
 <a href="https://www.hackster.io/nedzib" target="blank"><img align="center" src="./icons/socialmedia/hackster.svg" alt="@nedzib" height="30" width="30" /></a>
 </p>
----
 
-**You can find me on:**
+---
+**Find me on:**
 
 <p align="left">
 <a href="https://twitter.com/ned_zib" target="blank"><img align="center" src="./icons/socialmedia/twitter.svg" alt="Nedzib" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/nedzib/" target="blank"><img align="center" src="./icons/socialmedia/linkedin.svg" alt="https://www.linkedin.com/nedzib" height="30" width="30" /></a>
-<a href="https://www.hackster.io/nedzib" target="blank"><img align="center" src="./icons/socialmedia/hackster.svg" alt="@nedzib" height="30" width="30" /></a>
 </p>
