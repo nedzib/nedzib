@@ -14,18 +14,19 @@
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills <small>(Tap here)</small> </b></summary>
 	<br/>
+	
   <details>
 	<summary>🤖&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
    <br/>
-    <p align="left" style="margin-left: 10px;">
+    <p align="left">
+      <img src="./icons/programming/cpp.svg" alt="Cpp" width="80" height="40"/>
+      <img src="./icons/programming/js.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="./icons/programming/ts.svg" alt="TypeScript" width="40" height="40"/> 
+      <img src="./icons/programming/python.svg" alt="Python" width="40" height="40"/>
 	    
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>				         
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </p>
   </details>
+  
   <details>
 	<summary>🖌️&nbsp;&nbsp;&nbsp;<b>Frontend Development</b></summary>
    <br/>
@@ -36,6 +37,7 @@
       <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </p>
   </details>  
+  
   <details>
 	<summary>🧠&nbsp;&nbsp;&nbsp;<b>AI/ML</b></summary>
    <br/>
