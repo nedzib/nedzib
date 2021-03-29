@@ -18,6 +18,7 @@
 	<summary>🤖&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
    <br/>
     <p align="left" style="margin-left: 10px;">
+	    
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>				         
       <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
