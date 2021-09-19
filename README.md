@@ -19,10 +19,10 @@
 	<summary>🤖&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
    <br/>
     <p align="left">
+      <img src="./icons/programming/ts.svg" alt="TypeScript" width="40" height="40"/>    
       <img src="./icons/programming/python.svg" alt="Python" width="40" height="40"/> 
       <img src="./icons/programming/cpp.svg" alt="Cpp" width="40" height="40"/>
       <img src="./icons/programming/js.svg" alt="JavaScript" width="40" height="40"/>
-      <img src="./icons/programming/ts.svg" alt="TypeScript" width="40" height="40"/>    
     </p>
   </details>
   
