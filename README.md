@@ -61,7 +61,7 @@
    </p>
   </details>       
   <details>
-	<summary>⚙️&nbsp;&nbsp;&nbsp;<b>Framework</b></summary>
+	<summary>⚙️&nbsp;&nbsp;&nbsp;<b>Backend Frameworks</b></summary>
    <br/>
  <p align="left">
   <img src="./icons/framework/django.svg" alt="django" height="80"/>
