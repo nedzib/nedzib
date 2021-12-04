@@ -7,7 +7,7 @@
 
 
 
-- 🤖 I'm currently learning Express and Databases
+- 🤖 I'm currently Ruby and Ruby on Rails
 - 💬 Ask me about **JS, Python, Microcontrollers**
 - 🔨 In my free time I am working in [this...](https://nedzib.github.io/Kamishibai/)
 
