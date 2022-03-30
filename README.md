@@ -1,5 +1,8 @@
 <h3>Hi, I'm Ned ✨</h3>
 <h4 >A developer from <a href="https://www.youtube.com/watch?v=Vg8LgVOrx6k">Colombia </a> 🇨🇴, passionate about performance code, building devices and solutions, I love new challenges.</h4>
+
+Find more on my [personal website](nedzib.github.io/ned/)
+
 <br>
 
 - 🤖 I'm currently learning Stimulus Reflex for Ruby on Rails
