@@ -10,7 +10,7 @@
 - 🔨 In my free time I am working in [this...](https://github.com/nedzib/reflexamples)
 - ⚒️ Sometimes I contribute to [this...](https://github.com/nildiert/the-dragon-path)
 
-<h3>Skills:</h3>
+<h3>Tools I use:</h3>
   <p>
     <img src="https://img.shields.io/badge/-Ruby-D22128?style=flat&logo=ruby&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB3837?style=flat&logo=rubyonrails&logoColor=white"/>
@@ -43,7 +43,7 @@
   </p>
 
 ```dart
-// Skills organized
+// Tools I use organized
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Ruby", "Python", "TypeScript", "C++", "Javascript" },
