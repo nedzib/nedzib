@@ -5,6 +5,7 @@
 - 🤖 I'm currently learning Stimulus Reflex for Ruby on Rails
 - 💬 Ask me about **Microcontrollers, Ruby, Rails, Stimulus**
 - 🔨 In my free time I am working in [this...](https://github.com/nedzib/reflexamples)
+- ⚒️ Sometimes I contribute to [this...](https://github.com/nildiert/the-dragon-path)
 
 <br>
 <h3>Skills:</h3>
