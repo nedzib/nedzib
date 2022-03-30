@@ -9,7 +9,8 @@
 <br>
 <h3>Skills:</h3>
   <p>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/-Ruby-D22128?style=flat-square&logo=ruby&logoColor=white"/>
+  <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Ruby-D22128?style=flat-square&logo=ruby&logoColor=white" alt="@nedzib" height="40" /></a>
+    <img src="https://img.shields.io/badge/-Ruby-D22128?style=flat-square&logo=ruby&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB3837?style=flat-square&logo=rubyonrails&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Stimulus-123F6D?style=flat-square&logo=stimulus&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Typescript-0079BF?style=flat-square&logo=typescript&logoColor=white"/>
