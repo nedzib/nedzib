@@ -1,82 +1,37 @@
-### Hi, I'm Ned
-
-
-
-
+<h3>Hi, I'm Ned ✨</h3>
 <h4 >A developer from <a href="https://www.youtube.com/watch?v=Vg8LgVOrx6k">Colombia </a> 🇨🇴, passionate about performance code, building devices and solutions, I love new challenges.</h4>
+<br>
 
+- 🤖 I'm currently learning Stimulus Reflex for Ruby on Rails
+- 💬 Ask me about **Microcontrollers, Ruby, Rails, Stimulus**
+- 🔨 In my free time I am working in [this...](https://github.com/nedzib/reflexamples)
 
-
-- 🤖 I'm currently Ruby and Ruby on Rails
-- 💬 Ask me about **JS, Python, Microcontrollers**
-- 🔨 In my free time I am working in [this...](https://nedzib.github.io/Kamishibai/)
-
-<details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills <small>(Tap here)</small> </b></summary>
-	<br/>
-	
-  <details>
-	<summary>🤖&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
-   <br/>
-    <p align="left">
-      <img src="./icons/programming/ts.svg" alt="TypeScript" width="40" height="40"/>    
-      <img src="./icons/programming/python.svg" alt="Python" width="40" height="40"/> 
-      <img src="./icons/programming/cpp.svg" alt="Cpp" width="40" height="40"/>
-      <img src="./icons/programming/js.svg" alt="JavaScript" width="40" height="40"/>
-    </p>
-  </details>
-  
-  <details>
-	<summary>🖌️&nbsp;&nbsp;&nbsp;<b>Frontend Development</b></summary>
-   <br/>
-    <p align="left">
-      <img src="./icons/frontend/angularjs.svg" alt="angularjs" width="40" height="40"/>
-      <img src="./icons/frontend/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
-      <img src="./icons/frontend/css3.svg" alt="css3" width="40" height="40"/>
-    </p>
-  </details>  
-     
-  <details>
-	<summary>🗄️&nbsp;&nbsp;&nbsp;<b>Database</b></summary>
-   <br/>
-   <p align="left">
-     <img src="./icons/database/postgresql.svg" alt="postgresql" width="40" height="40"/> 
-     <img src="./icons/database/sqlite.svg" alt="sqlite" height="40"/>
-   </p>
-  </details>     
-  <details>
-	<summary>📉&nbsp;&nbsp;&nbsp;<b>Data Visualization</b></summary>
-   <br/>
-   <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/>
-    <img src="https://static.bokeh.org/branding/logos/bokeh-logo.svg" alt="Bokeh" height="40"/>
-   </p>
-  </details>       
-
-  <details>
-	<summary>☁️&nbsp;&nbsp;&nbsp;<b>Backend as a Service(BaaS)</b></summary>
-   <br/>
-   <p align="left">
-    <img src="./icons/baas/firebase.svg" alt="firebase" width="40" height="40"/>
-   </p>
-  </details>       
-  <details>
-	<summary>⚙️&nbsp;&nbsp;&nbsp;<b>Backend Frameworks</b></summary>
-   <br/>
- <p align="left">
-  <img src="./icons/framework/django.svg" alt="django" height="80"/>
- </p>
-  </details>       
-  <details>
-	<summary>🐧&nbsp;&nbsp;&nbsp;<b>Other</b></summary>
-   <br/>
-    <p align="left">
-      <img src="./icons/other/linux.svg" alt="linux" width="40" height="40"/>
-      <img src="./icons/other/git.svg" alt="git" width="40" height="40"/>     
-    </p>
-  </details>     
-  
-</details>
+<br>
+<h3>Skills:</h3>
+  <p><br>
+    <img src="https://img.shields.io/badge/-Ruby-D22128?style=flat-square&logo=ruby&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB3837?style=flat-square&logo=rubyonrails&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Stimulus-123F6D?style=flat-square&logo=stimulus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Typescript-0079BF?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-2a9d8f?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-FA6400?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MicroPython-6c757d?style=flat-square&logo=micropython&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-F29111?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Sqlite3-5849BE?style=flat-square&logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Angular-42B883?style=flat-square&logo=Angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-4B32C3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-1C78C0?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Firebase-E74430?style=flat-square&logo=Firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linux-A80030?style=flat-square&logo=linux&logoColor=white"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bitbucket-4285F4?style=flat-square&logo=Bitbucket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/><br>
+  </p>
 
 ---
 **Other projects on:**
