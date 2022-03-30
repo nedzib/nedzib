@@ -8,7 +8,7 @@
 
 <br>
 <h3>Skills:</h3>
-  <p><br>
+  <p>
     <img src="https://img.shields.io/badge/-Ruby-D22128?style=flat-square&logo=ruby&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB3837?style=flat-square&logo=rubyonrails&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Stimulus-123F6D?style=flat-square&logo=stimulus&logoColor=white"/>
