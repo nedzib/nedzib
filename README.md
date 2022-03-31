@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/-Linux-A80030?style=flat&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-VScode-f3722c?style=flat&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-RubyMine-f3722c?style=flat&logo=jetbrains&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-RubyMine-f3765?style=flat&logo=jetbrains&logoColor=white"/>
     <br><br>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/>
