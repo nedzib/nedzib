@@ -48,7 +48,7 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Ruby", "Python", "TypeScript", "C++", "Javascript" },
-    "BackTools" : { "Ruby On Rails", "Stimulus"},
+    "BackTools" : { "Ruby On Rails", "Stimulus", "Express"},
     "FrontTools" : { "Angular", "HTML", "CSS3", "Bootstrap", "Tailwind CSS" },
     "Database" : { "Firebase", "PostgreSQL", "Sqlite3" },
     "Microcontrollers/FPGA" : { "C++", "Arduino", "VHDL", "MicroPython" },
